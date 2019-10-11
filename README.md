@@ -1,7 +1,7 @@
 # Monty-Hall-Problem
 The Monty Hall Problem is a thought experiment, in the form of a probability excercise. This is the original form of the puzzle:
 
-    **Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?**
+**Suppose you're on a game show, and you're given the choice of three doors: Behind one door is a car; behind the others, goats. You pick a door, say No. 1, and the host, who knows what's behind the doors, opens another door, say No. 3, which has a goat. He then says to you, "Do you want to pick door No. 2?" Is it to your advantage to switch your choice?**
     
 The answer is yes, it is to your advantage to switch, for you stand twice the chance of winning if you choose the second door.
 
