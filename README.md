@@ -14,7 +14,7 @@ The solution has a very simple implementation in code, and thus, you can run the
 
 The code runs on a simple rule: 
 * If you pick the door that had the car initially (a 1/3 probability), then switching, you would lose. 
-* If you pick a door wiht a goat initially (a 2/3 probability), then switching, you would win.
+* If you pick a door with a goat initially (a 2/3 probability), then switching, you would win.
 
 If you still need further convincing, run the program, and see what your chances come to.
 
